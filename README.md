@@ -34,6 +34,9 @@ You will need to import `bagel.jar` to play the game. [Bagel Library](https://pe
 * A fire ball will give you abosulte advantages as it will destroy everything within 70 pixels so take your chance
 * The combanaiton of fire ball and green ball is savage.
 * Goal is to clear all the Reds and advance to the next level until clearing them all.
+#### Final version of this game: 
+
+![game](shadow_bounce.PNG)
 
 ## Note: 
 This project is a university assignment from Object Oriented Softwara Development subject in The University of Melbourne, Department of Computing and Software System, Semester 2 2019.
